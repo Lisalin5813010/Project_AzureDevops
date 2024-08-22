@@ -12,3 +12,4 @@
 /Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.pdb
 /Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.genruntimeconfig.cache
 /Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/ref/MyFirstCSharpApp.dll
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.sourcelink.json
