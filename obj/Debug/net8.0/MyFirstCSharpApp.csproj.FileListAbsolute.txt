@@ -1,0 +1,14 @@
+/Users/lisalin/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp
+/Users/lisalin/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.deps.json
+/Users/lisalin/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.runtimeconfig.json
+/Users/lisalin/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.dll
+/Users/lisalin/MyFirstCSharpApp/bin/Debug/net8.0/MyFirstCSharpApp.pdb
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.AssemblyInfoInputs.cache
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.AssemblyInfo.cs
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.dll
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/refint/MyFirstCSharpApp.dll
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.pdb
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/MyFirstCSharpApp.genruntimeconfig.cache
+/Users/lisalin/MyFirstCSharpApp/obj/Debug/net8.0/ref/MyFirstCSharpApp.dll
